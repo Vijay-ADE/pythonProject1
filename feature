@@ -1,2 +1,2 @@
-new feature commit 3
-conflict 2
+conflict 1
+
